@@ -1,0 +1,8 @@
+train: D:/PythonCode/YOLO11/ultralytics/Valorant2024/images/train
+val: D:/PythonCode/YOLO11/ultralytics/Valorant2024/images/val
+test: D:/PythonCode/YOLO11/ultralytics/Valorant2024/images/test
+
+names:
+    0: Valorant-enemy
+    1: enemy
+    2: enemy_head
